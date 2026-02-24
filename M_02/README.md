@@ -21,3 +21,8 @@ Proqnoz: model.predict() vasitəsilə yeni sahə dəyərləri üçün qiymətin 
 5. Vizuallaşdırma
 Modelin nəticələrini görə bilərik
 Real məlumat nöqtələri (scatter plot) və modelin öyrəndiyi proqnoz xəttinin (line plot) bir qrafikdə göstərilməsi.
+
+
+
+
+<img width="891" height="700" alt="image" src="https://github.com/user-attachments/assets/a81aaa5f-4f8c-427f-9b95-16a453325f84" />
