@@ -1,2 +1,2 @@
-# Artificial-Intelligence-S-ni-intellekt-
+# Artificial-Intelligence-Suni-intellekt-
 Süni intellekt
